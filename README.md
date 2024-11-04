@@ -24,7 +24,7 @@
 - JSP
 
 ## Tela do projeto
-<img alt="tela projeto" src="./assets/tabelaFilmes.png" >
+<img alt="tela projeto" src="./src/main/resources/assets/tabelaFilmes.png" >
 
 ## Ambiente
 1. Servidor: Apache Tomcat 9.0
