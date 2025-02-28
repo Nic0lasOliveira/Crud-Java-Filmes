@@ -26,6 +26,9 @@
 ## Tela do projeto
 <img alt="tela projeto" src="./src/main/resources/assets/tabelaFilmes.png" >
 
+## Conclusão
+O projeto implementa uma aplicação simples e funcional de gerenciamento de filmes utilizando Java, MySQL, Apache Tomcat e Maven. Através da aplicação, é possível realizar operações básicas de CRUD (Criar, Ler, Atualizar e Deletar) em um banco de dados, proporcionando ao usuário a capacidade de listar, adicionar, editar e excluir filmes de forma intuitiva.
+
 ## Ambiente
 1. Servidor: Apache Tomcat 9.0
 2. Porta padrão: 8080
